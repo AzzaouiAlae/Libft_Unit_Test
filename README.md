@@ -12,12 +12,6 @@ From the beginning of my journey at 1337 School, I aimed to cover all the essent
 - **Comprehensive Testing:** Covers all Libft functions.
 - **Simple Integration:** Easily integrate your Libft project with the test suite.
 
-## Prerequisites
-
-Before running the tests, ensure you have the following:
-
-- A working C compiler (e.g., GCC).
-
 ## Installation
 
 1. **Clone the Repository:**
